@@ -103,6 +103,7 @@ if(isset($_POST['add_to_cart'])){
 
       <div class="content">
          <h3>about us</h3>
+         <p>Unveil Your Next Literary Odyssey with Duru's Books,Where words weave wonders and dreams dance on pages</p>
          <a href="about.php" class="btn">read more</a>
       </div>
 
@@ -114,6 +115,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>have any questions?</h3>
+      <p>Interested in starting or joining a book club? Reach out to explore book club options and resources.</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 

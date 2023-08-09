@@ -76,6 +76,14 @@ section{
    transform: rotate(90deg);
 }
 
+.title{
+    text-align: center;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    color:var(--black);
+    font-size: 4rem;
+}
+
 .btn,
 .option-btn,
 .delete-btn,
@@ -322,7 +330,7 @@ text-align: center;
 }
 
 .products .box-container{
-    max-width: 1800px;
+    max-width: 1200px;
     margin: 2% auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, 35rem);
@@ -359,11 +367,7 @@ text-align: center;
     margin:1rem 0;
     font-size: 2.5rem;
 }
-/* hello world my name is duru 
-these are the 3 main commands you need
-1. git add .
-git commit -m "write your commit message here"
-git push*/
+
 
  
 .products .box-container .box .price{
@@ -376,17 +380,64 @@ git push*/
     background-color: var(--black);
 }
 
+.about .flex{
+    max-width: 1700px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
+.about .flex .image{
+    flex: 1 1 40rem;
+}
 
+.about .flex .image img{
+    width: 100%;
+}
 
+.about .flex .content{
+    flex:1 1 30rem;
+    padding: 2rem;
+    background-color: var(--light-bg);
+}
 
+.about .flex .content h3{
+    font-size: 2.5rem;
+    color: var(--black);
+    text-transform: uppercase;
+}
 
+.about .flex .content p{
+    padding: 0.7rem 0;
+    line-height: 1.5;
+    font-size: 1.9rem;
+    color: var(--light-color);
 
+}
 
-
-
-
-
+.home-contact{
+    background-color: var(--black);
+}
+ 
+.home-contact .content{
+    max-width: 60rem;
+    text-align: center;
+    margin:0 auto;
+}
+ 
+.home-contact .content h3{
+    font-size: 3rem;
+    text-transform: uppercase;
+    color:var(--white);
+}
+ 
+.home-contact .content p{
+    padding:1rem 0;
+    line-height: 1.5;
+    color:var(--light-white);
+    font-size: 1.9rem;
+}
 
 
 
@@ -513,6 +564,10 @@ git push*/
  
      html{
       font-size: 50%;
-     } 
+    }
+    
+    .title{
+      font-size: 3rem;  
+    }
   
 }
