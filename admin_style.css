@@ -65,7 +65,7 @@ body{
     text-align: center;
     border:var(--border);
     background-color: var(--white);
-    color:var(--red);
+    color:coral;
     font-size: 2rem;
 }
  
@@ -90,7 +90,7 @@ body{
 
 .message i{
     cursor: pointer;
-    color: var(--red);
+    color: coral;
     font-size: 1.5rem;
 }
 
@@ -336,7 +336,8 @@ body{
 .show-products .box-container .box .price{
     padding:1rem 0;
     font-size: 2.5rem;
-    color:var(--red);
+    color:cor
+    ;
 }
  
 .edit-product-form{

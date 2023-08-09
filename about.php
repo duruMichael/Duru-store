@@ -33,7 +33,7 @@ if(!isset($user_id)){
 
 <div class="heading">
    <h3>about us</h3>
-   <p> <a href="home.php">home</a> / about </p>
+   <p> <a href="home.php">Home</a> / About </p>
 </div>
 
 <section class="about">
@@ -46,8 +46,8 @@ if(!isset($user_id)){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet voluptatibus aut hic molestias, reiciendis natus fuga, cumque excepturi veniam ratione iure. Excepturi fugiat placeat iusto facere id officia assumenda temporibus?</p>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>Discover unmatched expertise that drives results, while enjoying exceptional value that sets us apart. Choose us as your trusted partner for a journey towards success.</p>
+         <p>Experience excellence through our proven track record of success and dedication to exceeding your expectations. Join a community of satisfied clients who have elevated their endeavors with our unwavering commitment and innovative solutions.</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
@@ -71,7 +71,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Bola Ahmed</h3>
       </div>
 
       <div class="box">
@@ -84,7 +84,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Ola Jimoh</h3>
       </div>
 
       <div class="box">
@@ -97,7 +97,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Elizabeth Duru</h3>
       </div>
 
       <div class="box">
@@ -110,7 +110,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Somto Peter </h3>
       </div>
 
       <div class="box">
@@ -123,7 +123,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Adeolu Olaitan</h3>
       </div>
 
       <div class="box">
@@ -136,7 +136,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Toyosi Adeleye</h3>
       </div>
 
    </div>
@@ -145,7 +145,7 @@ if(!isset($user_id)){
 
 <section class="authors">
 
-   <h1 class="title">greate authors</h1>
+   <h1 class="title">great authors</h1>
 
    <div class="box-container">
 
@@ -157,7 +157,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Sefi Atta</h3>
       </div>
 
       <div class="box">
@@ -168,7 +168,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Sally Rooney</h3>
       </div>
 
       <div class="box">
@@ -179,7 +179,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Gordon Korman</h3>
       </div>
 
       <div class="box">
@@ -190,7 +190,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Valrie Grant</h3>
       </div>
 
       <div class="box">
@@ -201,7 +201,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Wole Soyinka</h3>
       </div>
 
       <div class="box">
@@ -212,7 +212,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Chimamanda Ngozi</h3>
       </div>
 
    </div>
